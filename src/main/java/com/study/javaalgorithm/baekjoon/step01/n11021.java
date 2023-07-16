@@ -12,7 +12,8 @@ public class n11021 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
         int t = Integer.parseInt(br.readLine());
-
+        
+        // charAt(i) - '0' 이유
         // 1 1 => str.charAt(0) => '1' =  49 (문자열 1은 49)
         // str.charAt(0) - '0' => '0' = 48 (문자열 0은 48)
         // => str.charAt(0)-'0'=1 ("1 1" 에서 str.charAt(0)은 "1"이니까 49, 여기에 문자열"0"을 빼주면 49-48=1 !!)
