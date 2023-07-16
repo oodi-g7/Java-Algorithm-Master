@@ -35,6 +35,7 @@ public class n10953 {
     }
 
     // 230706 : 14096KB | 140ms
+    // https://onlyfor-me-blog.tistory.com/317
     public static void main2(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int cnt = Integer.parseInt(br.readLine());
@@ -49,7 +50,6 @@ public class n10953 {
 
         System.out.println(sb.toString());
     }
-    // https://onlyfor-me-blog.tistory.com/317
 
     // 230706 : 141206KB | 120ms
     public static void main(String[] args) throws IOException{
