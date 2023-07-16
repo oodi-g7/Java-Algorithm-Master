@@ -5,6 +5,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class n10953 {
+    // 230706 : 14296KB | 128ms
     public static void main0(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -33,6 +34,7 @@ public class n10953 {
         bw.close();
     }
 
+    // 230706 : 14096KB | 140ms
     public static void main2(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int cnt = Integer.parseInt(br.readLine());
@@ -49,6 +51,7 @@ public class n10953 {
     }
     // https://onlyfor-me-blog.tistory.com/317
 
+    // 230706 : 141206KB | 120ms
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
