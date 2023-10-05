@@ -1,4 +1,4 @@
-package com.study.javaalgorithm.baekjoon.nh_cote;
+package com.study.algo.nh_cote;
 
 import java.io.BufferedReader;
 import java.io.IOException;

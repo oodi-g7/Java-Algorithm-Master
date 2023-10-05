@@ -1,9 +1,8 @@
-package com.study.javaalgorithm.baekjoon.nh_cote;
+package com.study.algo.nh_cote;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class no_003 {
