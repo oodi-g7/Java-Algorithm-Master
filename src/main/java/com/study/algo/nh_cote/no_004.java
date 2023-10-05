@@ -18,7 +18,5 @@ public class no_004 {
         for(int i=1; i<n+1; i++){
 
         }
-
-
     }
 }
