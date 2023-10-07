@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class no_003 {
+public class no003_11659 {
     public static void main(String[] args) throws IOException {
         // 구간합 공식 : S[i] = S[i-1] + S[i]
         // i ~ j까지 부분합 공식 : S[j] - S[i-i]

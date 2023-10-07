@@ -2,7 +2,7 @@ package com.study.algo.nh_cote;
 
 import java.util.Scanner;
 
-public class no_002 {
+public class no002_1546 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
