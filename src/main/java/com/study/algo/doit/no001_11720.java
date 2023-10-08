@@ -1,4 +1,4 @@
-package com.study.algo.nh_cote;
+package com.study.algo.doit;
 
 import java.util.Scanner;
 
