@@ -27,11 +27,11 @@
 3. 거리두기 확인하기 - Level 2
 4. 행렬의 곱셈 - Level 2
 ### 문자열
-5. [자연수 뒤집어 배열로 만들기 – Level 1](../java-algorithm-master/src/main/java/com/study/algo/programmers/n005.java)
-6. [시저 암호 - Level 1](../java-algorithm-master/src/main/java/com/study/algo/programmers/n006.java)
-7. [이상한 문자 만들기 – Level 1](../java-algorithm-master/src/main/java/com/study/algo/programmers/n007.java)
+5. <span style="color:green;">자연수 뒤집어 배열로 만들기 – Level 1</span>
+6. <span style="color:green;">시저 암호 - Level 1</span>
+7. <span style="color:green;">이상한 문자 만들기 – Level 1</span>
 8. 문자열 압축 – Level 2
-9. 3진법 뒤집기 - Level 1
+9. <span style="color:green;">3진법 뒤집기 - Level 1</span>
 10. 이진 변환 반복하기 - Level 2
 11. 문자열 내 p와 y의 개수 - Level 1
 12. 숫자 문자열과 영단어 - Level 1
