@@ -27,13 +27,13 @@
 3. 거리두기 확인하기 - Level 2
 4. 행렬의 곱셈 - Level 2
 ### 문자열
-5. <span style="color:green;">자연수 뒤집어 배열로 만들기 – Level 1</span>
-6. <span style="color:green;">시저 암호 - Level 1</span>
-7. <span style="color:green;">이상한 문자 만들기 – Level 1</span>
+5. *<span style="color:green;">자연수 뒤집어 배열로 만들기 – Level 1</span>*
+6. *<span style="color:green;">시저 암호 - Level 1</span>*
+7. *<span style="color:green;">이상한 문자 만들기 – Level 1</span>*
 8. 문자열 압축 – Level 2
-9. <span style="color:green;">3진법 뒤집기 - Level 1</span>
+9. *<span style="color:green;">3진법 뒤집기 - Level 1</span>*
 10. 이진 변환 반복하기 - Level 2
-11. <span style="color:green;">문자열 내 p와 y의 개수 - Level 1</span>
+11. *<span style="color:green;">문자열 내 p와 y의 개수 - Level 1</span>*
 12. 숫자 문자열과 영단어 - Level 1
 13. 문자열 다루기 기본 - Level 1
 14. 신규 아이디 추천 - Level 1
@@ -42,14 +42,14 @@
 16. 하노이의 탑 - Level 3
 17. 모음 사전 - Level 2
 ### 완전탐색
-18. <span style="color:green;">모의고사 – Level 1</span>
+18. *<span style="color:green;">모의고사 – Level 1</span>*
 19. 카펫 – Level 2
 20. 수식 최대화 - Level 2
 21. 소수 찾기 – Level 2
 22. 불량 사용자 - Level 3
 ### 정렬
-23. <span style="color:green;">K번째수 – Level 1</span>
-24. <span style="color:green;">두 개 뽑아서 더하기 - Level 1</span>
+23. *<span style="color:green;">K번째수 – Level 1</span>*
+24. *<span style="color:green;">두 개 뽑아서 더하기 - Level 1</span>*
 25. H-index - Level 2
 26. 문자열 내림차순으로 배치하기 – Level 1
 7. 문자열 내 마음대로 정렬하기 - Level 1
@@ -61,7 +61,7 @@
 32. 징검다리 - Level 4
 ### 해시
 33. 전화번호 목록 - Level 2
-34. <span style="color:green;">중복된 문자 제거 - Level 0</span>
+34. *<span style="color:green;">중복된 문자 제거 - Level 0</span>*
 35. A로 B 만들기 - Level 0
 36. 없는 숫자 더하기 - Level 1
 37. 완주하지 못한 선수 - Level 1
