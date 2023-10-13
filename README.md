@@ -33,7 +33,7 @@
 8. 문자열 압축 – Level 2
 9. <span style="color:green;">3진법 뒤집기 - Level 1</span>
 10. 이진 변환 반복하기 - Level 2
-11. 문자열 내 p와 y의 개수 - Level 1
+11. <span style="color:green;">문자열 내 p와 y의 개수 - Level 1</span>
 12. 숫자 문자열과 영단어 - Level 1
 13. 문자열 다루기 기본 - Level 1
 14. 신규 아이디 추천 - Level 1
