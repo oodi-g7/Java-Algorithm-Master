@@ -42,14 +42,14 @@
 16. 하노이의 탑 - Level 3
 17. 모음 사전 - Level 2
 ### 완전탐색
-18. 모의고사 – Level 1
+18. <span style="color:green;">모의고사 – Level 1</span>
 19. 카펫 – Level 2
 20. 수식 최대화 - Level 2
 21. 소수 찾기 – Level 2
 22. 불량 사용자 - Level 3
 ### 정렬
-23. K번째 수 – Level 1
-24. 두 개 뽑아서 더하기 - Level 1
+23. <span style="color:green;">K번째수 – Level 1</span>
+24. <span style="color:green;">두 개 뽑아서 더하기 - Level 1</span>
 25. H-index - Level 2
 26. 문자열 내림차순으로 배치하기 – Level 1
 7. 문자열 내 마음대로 정렬하기 - Level 1
@@ -61,8 +61,8 @@
 32. 징검다리 - Level 4
 ### 해시
 33. 전화번호 목록 - Level 2
-34. 중복된 문자 제거 - Level 0
-35. A로 B 만들기
+34. <span style="color:green;">중복된 문자 제거 - Level 0</span>
+35. A로 B 만들기 - Level 0
 36. 없는 숫자 더하기 - Level 1
 37. 완주하지 못한 선수 - Level 1
 ### 동적 프로그래밍
