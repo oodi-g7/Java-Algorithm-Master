@@ -44,5 +44,70 @@ package com.study.algo.programmers;
 // new_id는 알파벳 대문자, 알파벳 소문자, 숫자, 특수문자로 구성되어 있습니다.
 // new_id에 나타날 수 있는 특수문자는 -_.~!@#$%^&*()=+[{]}:?,<>/ 로 한정됩니다.
 public class n014 {
-    
+    public String solution(String new_id) {
+        // step1
+        new_id = new_id.toLowerCase();
+        
+        // step2
+        String id = "";
+        for(int i=0; i<new_id.length(); i++){
+            char ch = new_id.charAt(i);
+            if(ch >= 'a' && ch <= 'z'){
+                id += String.valueOf(ch);
+            }
+            else if(ch >= '0' && ch <= '9'){
+                id += String.valueOf(ch);
+            }
+            else if(ch == '-' || ch == '_' || ch == '.'){
+                id += String.valueOf(ch);
+            }
+        }
+        
+        // step3
+        for(int i=0; i<id.length(); i++){
+            if(id.charAt(i) == '.'){
+                String dot = ".";
+                int j = i+1;
+                
+                while(j != id.length() && id.charAt(j) == '.'){
+                    j++;
+                    dot += ".";
+                }
+                
+                if(dot.length() > 1)
+                    id = id.replace(dot, ".");
+            }
+        }
+        
+        // step4
+        if(id.startsWith(".")){
+            id = id.substring(1);
+        }
+        if(id.endsWith(".")){
+            id = id.substring(0, id.length()-1);
+        }
+        
+        // step5
+        if(id.length() == 0){
+            id = "a";
+        }
+        
+        // step6
+        if(id.length() >= 16){
+            id = id.substring(0, 15);
+        }
+        if(id.endsWith(".")){
+            id = id.substring(0, id.length()-1);
+        }
+        
+        // step7
+        String last = id.charAt(id.length()-1) + "";
+        if(id.length() == 2){
+            id += last;
+        } else if(id.length() == 1){
+            id = id + last + last;
+        }
+            
+        return id;
+    }
 }
