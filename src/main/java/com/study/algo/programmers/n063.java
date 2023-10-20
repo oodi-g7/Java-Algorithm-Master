@@ -1,5 +1,8 @@
 package com.study.algo.programmers;
 
+// 정답아님...
+// 추후에 코드 보완하기
+
 public class n063 {
     public String solution(String number, int k) {
         // 뒤에서 k개 숫자를 지운 후, 남아있는 숫자 중 가장 큰 수 찾기
